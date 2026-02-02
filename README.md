@@ -11,5 +11,5 @@ What makes it stand out from the ISC2 Certified in Cybersecurity Certificate (CC
 I am happy to share what I have worked on here:
 
 ## Course 2: Play it Safe: Manage Cybersecurity Risks
-* [Conducting a security audit](URL)
+* [Conducting a security audit](https://github.com/gaurav-cybersec/google-cybersec-pro-projects/tree/main/Conduct%20a%20Security%20Audit)
 * 
