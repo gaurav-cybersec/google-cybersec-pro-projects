@@ -14,4 +14,5 @@ I am happy to share what I have worked on here:
 * [Conducting a security audit](/Conduct%20a%20Security%20Audit): Conducted a security audit on a fictional organisation. Filled in the controls and compliance checklist based on observations made in the report and provided recommendations for the organisation.
 
 ### Course 3: Connect and Protect: Networks and Network Security
+* [Analyze network layer communicaiton using tcpdump](/Analyze-network-layer-communication): Wrote a Cybersecurity Incident Report based on observations made in **tcpdump** logs.
 * [Use the NIST cybersecurity framework to respond to a security incident](/Use%20NIST%20CSF%20to%20Respond%20to%20Security%20Incident): Wrote an Incident Report Analysis using the NIST Cybersecurity Framework.
