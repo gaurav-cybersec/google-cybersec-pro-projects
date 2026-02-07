@@ -14,5 +14,5 @@ As an analyst, you can inspect network traffic and network data to determine wha
 
 This event, in the meantime, is being handled by security engineers after you and other analysts have reported the issue to your direct supervisor. 
 
-## My report on the given incident:
+![My Report](https://github.com/gaurav-cybersec/google-cybersec-pro-projects/blob/main/Analyze-network-layer-communication/Report%20on%20Network%20Traffic%20Analysis.pdf)
 
