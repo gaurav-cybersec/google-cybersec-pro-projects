@@ -18,4 +18,4 @@ I am happy to share what I have worked on here:
 * [Use the NIST cybersecurity framework to respond to a security incident](/Use%20NIST%20CSF%20to%20Respond%20to%20Security%20Incident): Wrote an Incident Report Analysis using the NIST Cybersecurity Framework.
 
 ### Course 4: Tools of the Trade: Linux and SQL
-* [Use Linux commands to manage file permissions](File%20permissions%20in%20Linux.pdf)
+* [Use Linux commands to manage file permissions](File%20permissions%20in%20Linux.pdf): Conducted an access audit on files and directories using Linux in a simulated lab environment. Hands-on experience with Linux. 
