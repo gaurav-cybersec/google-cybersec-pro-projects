@@ -16,3 +16,6 @@ I am happy to share what I have worked on here:
 ### Course 3: Connect and Protect: Networks and Network Security
 * [Analyze network layer communicaiton using tcpdump](/Analyze-network-layer-communication): Wrote a Cybersecurity Incident Report based on observations made in **tcpdump** logs.
 * [Use the NIST cybersecurity framework to respond to a security incident](/Use%20NIST%20CSF%20to%20Respond%20to%20Security%20Incident): Wrote an Incident Report Analysis using the NIST Cybersecurity Framework.
+
+### Course 4: Tools of the Trade: Linux and SQL
+* [Use Linux commands to manage file permissions](File%20permissions%20in%20Linux.pdf)
